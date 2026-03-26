@@ -1,26 +1,48 @@
-# SAIT Web Programming Project
-Web Development 2 – SAIT | 2023
+# Web Programming Project
 
-## Description
-A full-stack web application built as a team project featuring a weather 
-API integration and a to-do list. The app includes user authentication 
-and real-time data from an external API.
+A full-stack web application built as a team project for **Web Development 2 at SAIT**. Features Firebase authentication, a weather API integration, and a to-do list — built with Next.js and React.
 
-## My Contribution
-- Implemented user authentication using Firebase, enabling secure 
-  sign-up, login, and session management
-- Contributed to frontend components across the application
-- Managed version control using GitHub, coordinating code contributions 
-  and reviews across the team
+---
 
-## Technologies Used
-- React / Next.js
-- Firebase (Authentication)
-- Weather API
-- JavaScript
-- Tailwind CSS
-- GitHub
+## My Contributions (Jean Pascua)
 
-## Team Project
-This was a collaborative group project completed as part of the 
-Web Development 2 course at SAIT.
+- **Implemented Firebase authentication** — built sign-up, login, and session management flows within the React application
+- Contributed frontend components across multiple sections of the app
+- Managed version control via GitHub, coordinating code contributions and reviews across the team
+
+---
+
+## Features
+
+- **User Authentication** — secure sign-up, login, and session management via Firebase
+- **Weather API Integration** — real-time weather data fetched and displayed dynamically
+- **To-Do List** — task management with persistent state
+- **Responsive UI** — built with React components and Next.js
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Framework | Next.js |
+| Frontend | React, JavaScript |
+| Authentication | Firebase |
+| Version Control | GitHub |
+
+---
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view the app.
+
+---
+
+## Team
+
+Built collaboratively as part of the SAIT Software Development diploma program.
